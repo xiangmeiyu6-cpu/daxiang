@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax 视频生成"
+  short_description: "调用 MiniMax H3 API 生成并下载视频"
+  default_prompt: "使用 MiniMax API 根据提示词或参考素材生成视频，并将结果下载到本地。"
