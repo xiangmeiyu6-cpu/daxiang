@@ -1,0 +1,17 @@
+请检查以下两个 Codex Skill 是否已经可以使用：
+
+1. ecommerce-product-replication
+2. minimax-video-generation
+
+本次只做环境检查，不执行完整商品分析，不发起付费视频生成。
+
+请依次返回：
+
+1. 两个 Skill 是否被识别，以及各自的安装目录。
+2. 各 Skill 的 SKILL.md、scripts、references 和 assets 是否完整。
+3. ecommerce-product-replication 是否具备读取本地物料和网页链接的条件。
+4. MINIMAX_API_KEY 是否存在，只回答“已配置”或“未配置”，不得显示、输出或记录密钥内容。
+5. minimax-video-generation 是否可以执行 Dry Run。
+6. 以 MiniMax-H3、6 秒、9:16、768P 为参数执行一次 Dry Run，只返回模式、模型、时长、画幅、分辨率、输入要求、输出位置和风险，不创建付费任务。
+7. 最终给出验收结论：通过、部分通过或未通过，并列出下一步需要处理的问题。
+

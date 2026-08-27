@@ -1,0 +1,14 @@
+请使用 skill-installer，从以下公开 GitHub 仓库安装两个 Codex Skill：
+
+仓库：https://github.com/xiangmeiyu6-cpu/daxiang
+
+安装路径：
+1. skills/ecommerce-product-replication
+2. skills/minimax-video-generation
+
+要求：
+1. 安装到默认 Codex Skills 目录。
+2. 如果存在同名 Skill，不要覆盖，先报告已安装版本和目录。
+3. 检查两个 Skill 目录均包含 SKILL.md，以及 SKILL.md 引用的 scripts、references 和 assets 文件。
+4. 不运行商品分析，不调用 MiniMax API，不产生任何付费任务。
+5. 安装完成后，告诉我两个 Skill 的安装路径，并提醒我在下一轮对话中进行调用验证。
