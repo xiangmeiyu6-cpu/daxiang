@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商商品深拆与复刻"
+  short_description: "从商品链接完成竞品深拆、组品定价、页面设计与投放策略"
+  default_prompt: "使用 $ecommerce-product-replication 分析这个商品链接，并生成完整的商品复刻运营策略。"
